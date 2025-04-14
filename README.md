@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, je suis développeur web
 
-<!--
-**VictorJqn/VictorJqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuellement en M1 Ingénierie du Web en alternance, je suis développeur fullstack.  
 
-Here are some ideas to get you started:
+🧠 J’apprends constamment pour monter en compétences, explorer de nouvelles technos et créer des produits utiles.  
+💼 Ouvert aux opportunités en freelance ou collaborations techniques.  
+📚 J’aime documenter ce que j’apprends et partager des choses concrètes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Techs principales :
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js / Express
+- PostgreSQL
+- Git / GitHub 
