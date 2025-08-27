@@ -7,6 +7,13 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: write # nécessaire pour commit/push le SVG
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,25 +29,25 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
 
-          # Token : si tu veux les contributions privées, mets METRICS_TOKEN
+          # Token : utiliser un "classic" PAT (pas fine-grained) si tu veux les contributions privées
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Plugins proches de ta capture
           plugin_languages: yes
-          plugin_languages.limit: 8
-          plugin_languages.sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
 
           plugin_isocalendar: yes
-          plugin_isocalendar.duration: half-year # grille de contributions
+          plugin_isocalendar_duration: half-year # grille de contributions
 
           plugin_topics: yes
-          plugin_topics.mode: starred
-          plugin_topics.limit: 12
+          plugin_topics_mode: starred
+          plugin_topics_limit: 12
 
           plugin_repositories: yes
-          plugin_repositories.batch: 100
+          plugin_repositories_batch: 100
 
-          # (optionnel) autres modules utiles
+          # (optionnels)
           plugin_achievements: yes
           plugin_stars: no
           plugin_followup: no
