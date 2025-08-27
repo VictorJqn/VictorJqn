@@ -1,6 +1,6 @@
 # 👋 Hello, je suis développeur web
 
-Actuellement en M1 Ingénierie du Web en alternance, je suis développeur fullstack.  
+Actuellement en M1 Ingénierie du Web en alternance, je suis développeur fullstack.
 
 🧠 J’apprends constamment pour monter en compétences, explorer de nouvelles technos et créer des produits utiles.  
 💼 Ouvert aux opportunités en freelance ou collaborations techniques.  
@@ -9,6 +9,7 @@ Actuellement en M1 Ingénierie du Web en alternance, je suis développeur fullst
 ---
 
 ### 🔧 Stack principale :
+
 - JavaScript / TypeScript
 - React / Next.js
 - Node.js / Express
@@ -18,7 +19,10 @@ Actuellement en M1 Ingénierie du Web en alternance, je suis développeur fullst
 ---
 
 ### 📬 Me contacter
+
 🌍 Basé à Paris  
 🖥️ [Mon portfolio](https://victorjacquin.fr)  
 ✉️ [Me contacter](mailto:victorjacquin.dev@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/victor-jacquin-505a27214/))
+🔗 [LinkedIn](<[https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/victor-jacquin-505a27214/)>)
+
+![Metrics](https://raw.githubusercontent.com/VictorJqn/VictorJqn/main/github-metrics.svg)
