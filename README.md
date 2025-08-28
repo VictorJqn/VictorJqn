@@ -1,11 +1,6 @@
 <div align="center">
 
-# 👋 Hello, je suis Victor Jacquin
-### 🚀 Développeur Fullstack | M1 Ingénierie du Web
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Développeur+Web+Fullstack;Étudiant+en+M1+Ingénierie+du+Web;Passionné+par+les+nouvelles+technologies" alt="Typing SVG" />
-</p>
+### 🚀 Développeur Fullstack
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VictorJqn&color=61DAFB&style=for-the-badge&label=Profile+Views" />
@@ -30,12 +25,15 @@
 <div align="center">
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
 
 ### Backend & Base de données
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb" />
 
 ### Outils & DevOps
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
 
 </div>
