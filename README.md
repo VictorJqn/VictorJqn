@@ -2,21 +2,21 @@
 <tr>
 <td valign="top" width="50%">
 
-## 🚀 Développeur Fullstack
+## Développeur Fullstack
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=VictorJqn&color=61DAFB&style=for-the-badge&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/VictorJqn?style=for-the-badge&color=61DAFB&labelColor=1e1e2e&logo=github" />
 </p>
 
-## 🎯 À propos
+## À propos
 
 🧠 **En constante évolution** - J'apprends continuellement pour monter en compétences et explorer de nouvelles technologies  
 💼 **Ouvert aux opportunités** - Disponible pour du freelance ou des collaborations techniques  
 📚 **Partage de connaissances** - J'aime documenter mes apprentissages et partager des solutions concrètes  
 🌍 **Basé à Paris** - Alternance en M2 Ingénierie du Web
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### Frontend
 
