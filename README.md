@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ### 🚀 Développeur Fullstack
 
@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="50%" align="center">
 
 ![Metrics](https://raw.githubusercontent.com/VictorJqn/VictorJqn/main/github-metrics.svg)
 
@@ -42,8 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictorJqn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorJqn&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VictorJqn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" width="100%" />
 
 </div>
 
