@@ -1,44 +1,55 @@
-<table>
-<tr>
-<td valign="top" width="50%">
+&nbsp;&nbsp;&nbsp;
 
-### 🚀 Développeur Fullstack
+<p align="center">
+Here you can see all my projects and activity<br>
+<blockquote>
+  <span style="font-size:1.5em; font-family:monospace;">
+    Building cool stuff with modern tech stack (◕‿◕)
+  </span>
+</blockquote>
+</p>
+
+&nbsp;&nbsp;&nbsp;
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+## 🚀 Fullstack Developer
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=VictorJqn&color=61DAFB&style=for-the-badge&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/VictorJqn?style=for-the-badge&color=61DAFB&labelColor=1e1e2e&logo=github" />
 </p>
 
-## 🎯 À propos
+## 🎯 About Me
 
-🧠 **En constante évolution** - J'apprends continuellement pour monter en compétences et explorer de nouvelles technologies  
-💼 **Ouvert aux opportunités** - Disponible pour du freelance ou des collaborations techniques  
-📚 **Partage de connaissances** - J'aime documenter mes apprentissages et partager des solutions concrètes  
-🌍 **Basé à Paris** - Alternance en M1 Ingénierie du Web
+🧠 **Constantly evolving** - I'm continuously learning new skills and exploring cutting-edge technologies  
+💼 **Open to opportunities** - Available for freelance work and technical collaborations  
+📚 **Knowledge sharing** - I love documenting my learnings and sharing practical solutions  
+🌍 **Based in Paris** - M2 Web Engineering Student
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
 
-### Backend & Base de données
+### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb" />
 
-### Outils & DevOps
+### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
 
-</td>
-<td valign="top" width="50%" align="center">
-
-![Metrics](https://raw.githubusercontent.com/VictorJqn/VictorJqn/main/github-metrics.svg)
-
-</td>
-</tr>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/VictorJqn/VictorJqn/main/github-metrics.svg" alt="Metrics" style="width:100%; max-width:400px;" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -48,7 +59,7 @@
 
 ---
 
-## 🤝 Restons connectés
+## 🤝 Let's Connect
 
 <div align="center">
 
