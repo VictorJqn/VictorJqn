@@ -50,7 +50,9 @@ jobs:
           repositories_batch: 100
 
           # (optionnels)
-          plugin_achievements: yes
+          # désactivé : le plugin interroge les "Projects (classic)", supprimés par GitHub
+          # -> erreur GraphQL, bloc affiché en "Unexpected error" dans le SVG
+          plugin_achievements: no
           plugin_stars: no
           plugin_followup: no
 
