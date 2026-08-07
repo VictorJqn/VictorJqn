@@ -41,16 +41,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VictorJqn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" width="100%" />
-
-</div>
-
----
-
 ## 🤝 Restons connectés
 
 <div align="center">
